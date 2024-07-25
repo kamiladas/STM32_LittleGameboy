@@ -39,7 +39,7 @@ The STM32 Little Gameboy project involves creating a simple gaming console that 
   - **Snake**: Implement the classic Snake game where the player controls a snake to eat food and grow in length, avoiding collisions with the walls and itself.
   - **Pong**: Implement a simple Pong game where the player controls a paddle to bounce a ball and score points.
 - **Input Handling**: Read joystick inputs and map them to game controls for smooth and intuitive gameplay.
-
+- **Task Management**: Utilize FreeRTOS to manage different tasks such as game logic, display updates, and input handling efficiently.
 ### Compilation and Programming:
 - Compile the project using STM32CubeIDE.
 - Program the STM32 microcontroller using the ST-Link utility or integrated tools within STM32CubeIDE.
