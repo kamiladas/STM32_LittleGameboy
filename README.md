@@ -61,7 +61,11 @@ The STM32 Little Gameboy project involves creating a simple gaming console that 
 - Improve power efficiency for longer battery life.
 
 ## Example Video
-*Place your example video here.*
+
+
+https://github.com/user-attachments/assets/83f3c389-71e0-4f83-badb-b8de8ea42ac7
+
+
 
 ## Conclusion
 The STM32 Little Gameboy project is an excellent way to explore the capabilities of the STM32 microcontroller and OLED displays. It provides a fun and interactive way to learn about embedded systems, game development, and hardware interfacing. Whether you're a beginner or an experienced developer, this project offers a rewarding experience in creating a portable gaming device.
